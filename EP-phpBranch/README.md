@@ -26,9 +26,7 @@ Firstly, in phpMyAdmin, click on the Databases tab.
 Enter 'fdmlogin' for your database name in the Create database field and click Create.
 
 # 5. Importing Tables to Database
-Access the following google drive link:
-
-https://drive.google.com/file/d/14jbP4M1Ikn_MnaapiADGC-QLxalJEztT/view?usp=sharing
+https://drive.google.com/file/d/1RSdAhf7qUxvOKk6XDyLjv_rg_UEARhRp/view?usp=sharing
 
 Download SQL file.
 On PHPMyAdmin access the import tab.
